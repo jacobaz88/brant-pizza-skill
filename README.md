@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34341036/README.md)
 # Brant Pizza · AI Waiter Skill
 
 > 广州珠江新城，一家6张桌的窑炉披萨快闪店，给自己装了个AI店小二。
